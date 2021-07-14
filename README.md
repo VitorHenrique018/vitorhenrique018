@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<table align="center">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
+    </td>
+    <td>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=vitorhenrique018&show_icons=true&theme=react'>
+    </td>
+  </row>
+</table>
+
 <!--
 **VitorHenrique018/vitorhenrique018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
