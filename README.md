@@ -6,6 +6,10 @@
      <!-- Card -->
       <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
     </td>
+    <td>
+     <!-- Card -->
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
+    </td>
   </row>
 </table>
 
