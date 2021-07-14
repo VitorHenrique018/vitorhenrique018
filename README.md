@@ -1,15 +1,6 @@
-### Olá, me chamo Vitor Henrique 👋
-
-
-
-<table align="center">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
-    </td>
-  </row>
-</table>
+<h2> Olá, Me chamo Vitor Henrique ⚡</h2>
+<p><em>Sistemas de Informação pela <a href="http://www.ufg.br">Universidade Federal de Goiás </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedor Frontend na <a href="https://www.chatpro.com.br">Chatpro </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <!--
 **VitorHenrique018/vitorhenrique018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
