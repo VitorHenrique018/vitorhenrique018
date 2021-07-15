@@ -14,6 +14,8 @@
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass" width="21px" height="21px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
+<a href="https://www.java.com/" title="java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="21px" height="21px"></a>
+<a href="https://www.nodejs.org/" title="Nodejs"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="Nodejs" width="21px" height="21px"></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://storybook.js.org/" title="Storybook"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/storybook.svg" alt="Storybook" width="21px" height="21px"></a>
