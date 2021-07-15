@@ -14,12 +14,12 @@
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass" width="21px" height="21px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://storybook.js.org/" title="Storybook"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/storybook.svg" alt="Storybook" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
-<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>></a>
+<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a></a>
 <a href="https://www.cypress.io/" title="CYPRESS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="cypress" width="21px" height="21px"></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
