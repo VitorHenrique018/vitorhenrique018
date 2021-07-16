@@ -26,6 +26,14 @@
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
 
+<a href="https://www.linkedin.com/in/vitor-henrique-a09859173/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://instagram.com/vitorhenrique018">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
 <table align="center">
   <row>
     <td>
