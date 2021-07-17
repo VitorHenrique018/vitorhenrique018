@@ -4,6 +4,7 @@
   <p>
     Sistemas de Informação pela <a href="http://www.ufg.br"> Universidade Federal de Goiás</a>
   </br>
+  </br>
     Desenvolvedor Frontend na <a href="https://www.chatpro.com.br">Chatpro</a>
   </p>
 </div>
@@ -29,21 +30,19 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-
 </div>
+
+</br>
 
 <table align="center">
   <row>
     <td>
-      <img height='300' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
+      <img height='250' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
     </td>
   </row>
 </table>
