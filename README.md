@@ -9,8 +9,6 @@
   </p>
 </div>
 
-<h2>Redes Sociais</h2>
-
 <div>
   <a href="https://www.instagram.com/vitorhenrique018/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -20,7 +18,7 @@
   </a>
 </div>
 
-<h2>Tecnologias e ferramentas que utilizo</h2>
+<h2>Tecnologias que utilizo:</h2>
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
