@@ -10,11 +10,11 @@
 </div>
 
 <div>
-  <a href="https://www.instagram.com/vitorhenrique018/"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/vitor-henrique-a09859173/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  <a href="https://www.instagram.com/vitorhenrique018/"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
 <table align="center">
   <row>
     <td>
-      <img height='250' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
+      <img height='225' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhenrique018&layout=compact&theme=react&hide=html,css,handlebars'>
     </td>
   </row>
 </table>
