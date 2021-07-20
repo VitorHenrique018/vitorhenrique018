@@ -5,7 +5,7 @@
     Sistemas de Informação pela <a href="http://www.ufg.br"><b>Universidade Federal de Goiás</b></a>
   </br>
   </br>
-    Desenvolvedor Frontend na <a href="https://www.chatpro.com.br">Chatpro</a>
+    Desenvolvedor Frontend na <a href="https://www.chatpro.com.br"><b>Chatpro</b></a>
   </p>
 </div>
 
