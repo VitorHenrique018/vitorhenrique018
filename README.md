@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h2>Tecnologias que utilizo</h2> 
+<h2>Tecnologias com que trabalho</h2> 
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
