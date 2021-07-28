@@ -5,19 +5,19 @@
   </br>
   </br>
     Desenvolvedor Frontend na <a href="https://www.chatpro.com.br"><b>Chatpro</b></a>
-  </p>  
+  </p>
 </div>
 
 <div>
   <a href="https://www.linkedin.com/in/vitor-henrique-a09859173/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/vitorhenrique018/"> 
+  <a href="https://www.instagram.com/vitorhenrique018/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-<h2>Tecnologias com que trabalho</h2>   
+<h2>Tecnologias com que trabalho</h2>
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
