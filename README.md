@@ -6,7 +6,7 @@
   </br>  
     Desenvolvedor Frontend na <a href="https://www.chatpro.com.br"><b>Chatpro</b></a>
   </p>
-</div> 
+</div>      
 
 <div>
   <a href="https://www.linkedin.com/in/vitor-henrique-a09859173/">
