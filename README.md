@@ -34,9 +34,9 @@
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />      
 </div>
-  
+
 </br>  
-  
+
 <table align="center">  
   <row> 
     <td>
